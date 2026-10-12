@@ -16,7 +16,7 @@ Activity 4 implemented beizer and cubic equations for pathing, also implemented 
 Activity 5 implemented proper tracking missiles using eueler and and endless background and player movement that kept moving forward.
 
 ## Gameplay Demonstration
-[Watch the mechanics demonstration here](https://drive.google.com/file/d/1AL0Ulx5yxGhlron4XbxCm4yC0ePnWMmR/view?usp=sharing)
+[Watch the mechanics demonstration here] (https://drive.google.com/file/d/1dW9bN9oRyYAAPcRf-_c88fY70jTYry0k/view?usp=sharing)
 
 
 
